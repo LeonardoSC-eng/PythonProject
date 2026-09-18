@@ -1,5 +1,5 @@
 nome = input("Digite seu nome: ")
-qntprod = float(input("Digite a quantidade de produtos vendidos: "))
+qntprod = int(input("Digite a quantidade de produtos vendidos: "))
 totalven = float(input("Digite o valor total das vendas: "))
 
 salario = float(1800)
