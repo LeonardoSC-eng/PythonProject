@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8338ab0-00be-450e-8dae-59947b7fd09f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Ex9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +105,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Ex10.executor": "Run",
+    "Python.Ex11.executor": "Run",
+    "Python.Ex12.executor": "Run",
+    "Python.Ex13.executor": "Run",
+    "Python.Ex4.executor": "Run",
+    "Python.Ex5.executor": "Run",
+    "Python.Ex6.executor": "Run",
+    "Python.Ex7.executor": "Run",
+    "Python.Ex8.executor": "Run",
+    "Python.Ex9.executor": "Run",
     "Python.Exercicio 1.executor": "Run",
     "Python.Exercicio 2.executor": "Run",
     "Python.Exercicio 3.executor": "Run",
@@ -113,6 +132,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/nerds/PythonProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
