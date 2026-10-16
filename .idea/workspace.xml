@@ -95,54 +95,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Ex10.executor": "Run",
-    "Python.Ex11.executor": "Run",
-    "Python.Ex12.executor": "Run",
-    "Python.Ex13.executor": "Run",
-    "Python.Ex4.executor": "Run",
-    "Python.Ex5.executor": "Run",
-    "Python.Ex6.executor": "Run",
-    "Python.Ex7.executor": "Run",
-    "Python.Ex8.executor": "Run",
-    "Python.Ex9.executor": "Run",
-    "Python.Exercicio 1.executor": "Run",
-    "Python.Exercicio 2.executor": "Run",
-    "Python.Exercicio 3.executor": "Run",
-    "Python.Exercicio 4.executor": "Run",
-    "Python.Exercicio 5.executor": "Run",
-    "Python.Exercicio 6.executor": "Run",
-    "Python.ex1.executor": "Run",
-    "Python.ex10.executor": "Run",
-    "Python.ex2.executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.ex4.executor": "Run",
-    "Python.ex5.executor": "Run",
-    "Python.ex6.executor": "Run",
-    "Python.ex7.executor": "Run",
-    "Python.ex8.executor": "Run",
-    "Python.ex9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/labsfiap/PythonProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/labsfiap/PythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\labsfiap\PythonProject" />
@@ -186,15 +186,17 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$Exercicio_6.coverage" NAME="Exercicio 6 Coverage Results" MODIFIED="1790186216587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_3.coverage" NAME="Exercicio 3 Coverage Results" MODIFIED="1790182834136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1789686849773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MatchCase" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1789684604980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MatchCase" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1792169461548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$Exercicio_6.coverage" NAME="Exercicio 6 Coverage Results" MODIFIED="1790186216587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_1.coverage" NAME="Exercicio 1 Coverage Results" MODIFIED="1790181870012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$Exercicio_4.coverage" NAME="Exercicio 4 Coverage Results" MODIFIED="1790183436346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1789688091493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MatchCase" />
-    <SUITE FILE_PATH="coverage/PythonProject$Exercicio_2.coverage" NAME="Exercicio 2 Coverage Results" MODIFIED="1790181995439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_5.coverage" NAME="Exercicio 5 Coverage Results" MODIFIED="1790183570539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1789685689257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MatchCase" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1792173163459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1792167993839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$Exercicio_2.coverage" NAME="Exercicio 2 Coverage Results" MODIFIED="1790181995439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1792168271664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1792167267289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$Exercicio_4.coverage" NAME="Exercicio 4 Coverage Results" MODIFIED="1790183436346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1792168985923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
   </component>
 </project>
