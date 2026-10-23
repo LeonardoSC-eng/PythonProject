@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8338ab0-00be-450e-8dae-59947b7fd09f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CP3/ex4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP3/ex3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP3/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP3/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios 6/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios 6/ex2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +135,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/labsfiap/PythonProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nerds/PythonProject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -151,7 +154,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
       </set>
     </attachedChunks>
   </component>
@@ -164,6 +167,9 @@
       <updated>1789684245954</updated>
       <workItem from="1789684246989" duration="4969000" />
       <workItem from="1790180798243" duration="5427000" />
+      <workItem from="1792706183315" duration="8000" />
+      <workItem from="1792706315653" duration="807000" />
+      <workItem from="1792707257939" duration="9750000" />
     </task>
     <servers />
   </component>
@@ -187,16 +193,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_3.coverage" NAME="Exercicio 3 Coverage Results" MODIFIED="1790182834136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1792169461548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1792720914162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 6" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_6.coverage" NAME="Exercicio 6 Coverage Results" MODIFIED="1790186216587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_1.coverage" NAME="Exercicio 1 Coverage Results" MODIFIED="1790181870012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_5.coverage" NAME="Exercicio 5 Coverage Results" MODIFIED="1790183570539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1792173163459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1792167993839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1792720983222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 6" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1792709735949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lista" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_2.coverage" NAME="Exercicio 2 Coverage Results" MODIFIED="1790181995439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1792168271664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1792167267289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1792718755438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 6" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1792710668117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lista" />
     <SUITE FILE_PATH="coverage/PythonProject$Exercicio_4.coverage" NAME="Exercicio 4 Coverage Results" MODIFIED="1790183436346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 2" />
-    <SUITE FILE_PATH="coverage/PythonProject$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1792168985923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 5" />
+    <SUITE FILE_PATH="coverage/PythonProject$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1792719969150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios 6" />
   </component>
 </project>

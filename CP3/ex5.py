@@ -7,7 +7,7 @@ def exibir_menu():
 
 def consultar_contratos(total_contratos, valor_acumulado):
     print(f"\nQuantidade de contratos simulados: {total_contratos}")
-    print(f"Valor total financiado acumulado: R${valor_acumulado:.2f}")
+    print(f"Valor total financiado acumulado: R${valor_acumulado}")
 
 
 
@@ -18,7 +18,7 @@ def calcular_evolucao_saldo(valor_emprestimo, taxa_juros, meses):
 
     for mes in range(1, meses + 1):
         saldo_atual = saldo_atual * (1 + taxa_decimal)
-        print(f"Mês {mes}: R${saldo_atual:.2f}")
+        print(f"Mês {mes}: R${saldo_atual}")
 
     valor_total_financiado = saldo_atual
     valor_parcela = valor_total_financiado / meses
@@ -39,8 +39,8 @@ while True:
 
         total_financiado, parcela = calcular_evolucao_saldo(valor_emp, taxa, qtd_meses)
 
-        print(f"\nValor total financiado: R${total_financiado:.2f}")
-        print(f"Valor de cada parcela: R${parcela:.2f}")
+        print(f"\nValor total financiado: R${total_financiado}")
+        print(f"Valor de cada parcela: R${parcela}")
 
         quantidade_simulados += 1
         total_financiado_acumulado += total_financiado

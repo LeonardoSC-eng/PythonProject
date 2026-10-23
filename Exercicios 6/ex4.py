@@ -1,0 +1,11 @@
+def calcular_area_retangulo(base, altura):
+    return base * altura
+
+
+base = float(input("Digite a base: "))
+altura = float(input("Digite a altura: "))
+
+area = calcular_area_retangulo(base, altura)
+print(f"A área do retângulo é: {area}")
+
+print(f"Teste (5 e 3): {calcular_area_retangulo(5, 3)}")
